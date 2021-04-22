@@ -5,6 +5,7 @@
 margin: 0;
 padding: 0;
 font-family: 'Montserrat', sans-serif;
+box-sizing: border-box;
 }
 
 /* #83D1C4
@@ -39,19 +40,7 @@ font-family: 'Montserrat', sans-serif;
   font-size: 16px;
   margin-right: 50px;
    cursor: pointer;
-
 }
-
-/* .button1 {
-  background-color: white; 
-  color: black; 
-  border: 2px solid #4CAF50;
-} */
-
-
-
-
-
 
 /*---------------------------------------------top container --------------------------------------------------*/
     :root {
@@ -258,6 +247,7 @@ font-family: 'Montserrat', sans-serif;
   .timeline ul li:hover::before {
     background-color: #83D1C4;
   }
+}
   /*-------------------------------------------------Skills--------------------------------------------------*/
   .third-container{
   min-height: 100vh;
@@ -320,7 +310,8 @@ font-family: 'Montserrat', sans-serif;
     .skill_btn a:nth-child(2):before
     {
       background: url('../images/btn-bg2.png');
-     background-size: cover;}
+     background-size: cover;
+    }
 
     .skill_btn a:nth-child(3):before{
       background: url('../images/btn-bg3.png');
@@ -362,14 +353,11 @@ font-family: 'Montserrat', sans-serif;
   flex-direction: column;
   background-color: #E6DCDC;
   } 
- 
- 
-
-  .fourth_container h3 {
+   .fourth_container h3 {
     color: #000;
     font-size: 28pt;
     margin-top: -250px;
-    margin-bottom: 60px;
+    margin-bottom: 30px;
     margin-left: 20px;
     margin-right: 20px;
     }
@@ -377,12 +365,28 @@ font-family: 'Montserrat', sans-serif;
     .fourth_container p{
         margin-left: 50px;
         margin-right: 10px;
+        margin-bottom: 30px;
     }
 
-  
+    .column {
+  float: left;
+  width: 33.33%;
+  padding: 15px;
+  margin-top: 150px;;
+}
 
-     
-/*-----------------------------------------------Footer / Contact--------------------------------------------------*/
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+
+
+
+
+/*---------------------------------------------Footer / Contact--------------------------------------------------*/
 
 
 .background_footer {
@@ -593,7 +597,7 @@ font-family: 'Montserrat', sans-serif;
   .app-title:after {
     display: none;
   }
-
+}
 @media screen and (max-width: 600px) {
   .screen-body {
     padding: 40px;
@@ -602,14 +606,54 @@ font-family: 'Montserrat', sans-serif;
   .screen-body-item {
     padding: 0;
   }
+}
   /*----------------------------------------------social midias --------------------------------------------------*/
-  .fab {
   
+  .fa {
+  padding: 8px;
+  font-size: 30px;
+  width: 50px;
   text-align: center;
-  
+  text-decoration: none;
+  margin: 13px 10px;
+  border-radius: 50px;
   }
 
+  .social_media {
+      margin-left: 22%;
+  }
 
+.fa:hover {
+    opacity: 0.7;
 }
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
 }
+
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
 }
+
+
+
+.fa-instagram {
+  background: #CF2BB9
+  color: white;
+}
+
+
+.fa-skype {
+  background: #00aff0;
+  color: white;
+}
+.fa-github {
+  background: black;
+  color: white;
+}
+
+
+
