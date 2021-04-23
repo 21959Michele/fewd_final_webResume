@@ -20,21 +20,21 @@ Based on that, I chose to make a formal curriculum and tried to play around with
 
 <h4> Layout </h4>
 
-_italic_ Colors
+_Italics_ Colors
 <p> I choose a pastel color scheme of aqua, purple, and coral, and it is great if you are looking for a more muted tone of voice in your branding.
 A pastel color is defined as any hue with a high value (lightness) and low to medium saturation (the purity or intensity of the color). </p>
 
-_italic_ Fonts
+_Italics_ Fonts
 <p> I choose Montserrat font from google fonts. It is classified as a sans serif with 18 styles and 9 weights. Some characteristics that make Montserrat special is the Q in particular, it has a cute tail and the J has a wonderful cross bar on the top of the letter.
 Montserrat is very versatile and can be used in multiple domains such as websites, the publishing world, branding, editorial, logos, print, posters, etc. It is a typeface that can be used basically anywherebecause of the geometric and elegant simplicity with nice large x-height. </p>
 
-_italic_ Prototype Low-fidelity
+_Italics_ Prototype Low-fidelity
 <p> Prototypes are often paper-based and do not allow user interactions. They range from a series of hand-drawn mock-ups to printouts. In theory, low-fidelity sketches are quicker to create. I used the Balsamiq Cloud to make my prototype, it will be attached bellow.
 My Web Resume will contain five interactive pages: Home, Professional, Projects, Skills and Contact.
 </p>
 
 <h4> Structure, Issues Faced/Solved </h4>
-_italic_ Structure
+_Italics_ Structure
 <p> Most of this project was developed with HTML and CSS.
 Honestly, my skills with javascript are very low, even so, I tried to insert some elements.
 I tried several times to use the BOOTSTRAP and there were always errors with navbar and margin I checked all versions and links and I couldn't fix them, in the end, I gave up using this framework.
