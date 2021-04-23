@@ -20,21 +20,22 @@ Based on that, I chose to make a formal curriculum and tried to play around with
 
 <h4> Layout </h4>
 
-_Italics_ Colors
+Colors:
 <p> I choose a pastel color scheme of aqua, purple, and coral, and it is great if you are looking for a more muted tone of voice in your branding.
 A pastel color is defined as any hue with a high value (lightness) and low to medium saturation (the purity or intensity of the color). </p>
 
-_Italics_ Fonts
+Fonts:
 <p> I choose Montserrat font from google fonts. It is classified as a sans serif with 18 styles and 9 weights. Some characteristics that make Montserrat special is the Q in particular, it has a cute tail and the J has a wonderful cross bar on the top of the letter.
 Montserrat is very versatile and can be used in multiple domains such as websites, the publishing world, branding, editorial, logos, print, posters, etc. It is a typeface that can be used basically anywherebecause of the geometric and elegant simplicity with nice large x-height. </p>
 
-_Italics_ Prototype Low-fidelity
+Prototype Low-fidelity:
 <p> Prototypes are often paper-based and do not allow user interactions. They range from a series of hand-drawn mock-ups to printouts. In theory, low-fidelity sketches are quicker to create. I used the Balsamiq Cloud to make my prototype, it will be attached bellow.
 My Web Resume will contain five interactive pages: Home, Professional, Projects, Skills and Contact.
 </p>
 
-<h4> Structure, Issues Faced/Solved </h4>
-_Italics_ Structure
+<h4> Structure, Issues Faced and Solved </h4>
+
+Structure:
 <p> Most of this project was developed with HTML and CSS.
 Honestly, my skills with javascript are very low, even so, I tried to insert some elements.
 I tried several times to use the BOOTSTRAP and there were always errors with navbar and margin I checked all versions and links and I couldn't fix them, in the end, I gave up using this framework.
@@ -43,13 +44,9 @@ The interactions were basically done with CSS.
 MMost of the ideas and inspirations I had were watching tutorials on youtube and visiting some sites focused on design inspiration around the world.
 To summarise, I realize that my code has a low standard structure, and I was repeating the formatting. Despite it, I have learned a lot from those mistakes.</p>
 
-
-
-
 <h4> Conclusion </h4>
 
 <h4> References  </h4>
-
 <p> Colours: https://visme.co/blog/logo-color-schemes/ </p>
 <p> Font: https://fonts.google.com/specimen/Montserrat?query=mont</p>
 <p> Prototype: https://balsamiq.cloud/spaces</p>
