@@ -1,3 +1,6 @@
+/*---Michele de Sousa Santos
+     Student ID: 21959---*/
+
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500&display=swap");
 
 *{
@@ -7,10 +10,6 @@ padding: 0;
 font-family: 'Montserrat', sans-serif;
 box-sizing: border-box;
 }
-
-/* #83D1C4
-#78517C
-#F17950 */
 
 
 /*----------------------------------------------navigation bar --------------------------------------------------*/
@@ -93,12 +92,14 @@ box-sizing: border-box;
     .par {
       height: auto;
       overflow: hidden;
+  
     }
     
     .text{
       line-height: 28px;
       transform: translateY(300px);
       animation: slideUp .8s ease-in-out forwards .8s;
+      font-size: 16pt;
     }
        
     .title {
@@ -107,7 +108,7 @@ box-sizing: border-box;
     }
     
     h1 {
-        font-size: 14pt;
+        font-size: 32pt;
         color: var(--contrast-color);
         margin-bottom: 100px;
         transform: translateY(100px);
@@ -254,7 +255,7 @@ box-sizing: border-box;
     top: -30px;
   }
   .timeline ul li:hover::before {
-    background-color: #83D1C4;
+    background-color: #fff;
   }
 }
   /*-------------------------------------------------Skills--------------------------------------------------*/
@@ -365,8 +366,8 @@ box-sizing: border-box;
    .fourth_container h3 {
     color: #000;
     font-size: 28pt;
-    margin-top: -500px;
-    margin-bottom: 30px;
+    margin-top: -450px;
+    margin-bottom: 90px;
     margin-left: 20px;
     margin-right: 20px;
     }
@@ -762,7 +763,7 @@ box-sizing: border-box;
 
 
 .fa-instagram {
-  background: #EEB27D;
+  background: rgb(189, 58, 171);
   color: white;
 }
 
