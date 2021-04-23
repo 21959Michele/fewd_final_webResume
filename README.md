@@ -12,9 +12,9 @@ The aim is to develop my first Web Resume using tools of my choise to design, cr
 
 <h4> Initial Ideas </h4>
 
-<p> It was very difficult for me to decide what kind of curriculum I should develop in the beginning.
-My background is in business and human resources changing my career for IT was not an easy decision and I still struggling to keep it up.
-Based on that, I chose to make a formal curriculum and tried to play around with colors and interactions. In the end, I believe that my background spoke louder. It looks like more a businesswoman's web resume than a web developer. </p>
+
+<p> My initial idea  was to create something were I would be able to develop my creativite using the knowledge that was gained through my learning process. Basic
+ research helped to observe diferents interactions with images and also to explore diferents concepts of layout. </p>
 
 <h4> Development Process </h4>
 
@@ -45,6 +45,7 @@ MMost of the ideas and inspirations I had were watching tutorials on youtube and
 To summarise, I realize that my code has a low standard structure, and I was repeating the formatting. Despite it, I have learned a lot from those mistakes.</p>
 
 <h4> Conclusion </h4>
+<p> It was very difficult for me to decide what kind of CV I should develop in the beginning. My background is in business and human resources changing my career for IT was not an easy decision and I still struggling to keep it up. Based on that, I chose to make a formal curriculum and tried to play around with colors and interactions. In the end, I believe that my background spoke louder. It looks like more a businesswoman's web resume than a web developer. this final work aroused, even more, the desire to learn deeply how to be a good web development, and based on all my difficulties and mistakes I could realize that I have a lot to learn. </p>
 
 <h4> References  </h4>
 <p> Colours: https://visme.co/blog/logo-color-schemes/ </p>
@@ -52,6 +53,11 @@ To summarise, I realize that my code has a low standard structure, and I was rep
 <p> Prototype: https://balsamiq.cloud/spaces</p>
 <p> Struture: https://www.w3schools.com/css/default.asp, https://getbootstrap.com/docs/4.0/components/alerts/</p>
 <p> Inspirations: https://dribbble.com/</p>
+
+
+
+https://user-images.githubusercontent.com/71330436/115927058-c51ee100-a47b-11eb-9e3a-eafe763e3b08.mp4
+
 
 
 
