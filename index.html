@@ -18,14 +18,12 @@
 
   <!--------------------------------------------------Navbar---------------------------------------------------->
  <nav class="navbar">
-<a >HOME</a> |
-<a >PROFESSIONAL</a> |
-<a >PROJECTS</a> 
-<button class="btn">Hire me</button>
+<a href="#home">HOME</a> |
+<a href="#professional">PROFESSIONAL</a> |
+<a href="#projects">PROJECTS</a> |
+<a href="#skills">SKILLS</a> 
+<a href="#hire"><button class="btn">Hire me</button></a>
 </nav>
-
-
-       
 
   <!--------------------------------------------------Top page---------------------------------------------------->
   <div class='container'>
@@ -56,7 +54,7 @@
 
   <!-----------------------------------------------Professional Timeline-------------------------------------------------->
  
-  <div class="second-container">
+  <div id="professional" class="second-container">
       <div class="timeline">
       <ul>
         <li>
@@ -93,14 +91,14 @@
 
   
   <!-----------------------------------------------Skills-------------------------------------------------->
- <div class="third-container">
+ <div id="skills" class="third-container">
  <h3>Technical Skills</h3>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur tempora ab
     Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur tempora ab
     Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur temp
     Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur tempora ab</p>
     
-    <div class="skill_btn">
+    <div  class="skill_btn">
       <a href="#"><span>HTML</span></a>
       <a href="#"><span>CSS</span></a>
       <a href="#"><span>Bootstrap</span></a>
@@ -110,29 +108,51 @@
     </div>
     </div>
  <!-----------------------------------------------Projects-------------------------------------------------->
- <div class="fourth_container">
+ <div id="projects" class="fourth_container">
 <h3>My Projects</h3>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur tempora ab
     Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur tempora ab
     Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur temp
     Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur tempora ab</p>
 
-  
-  <div class="row">
-  <div class="column">
-    <img src="images/wuff.png" alt="Snow" width="300px" height="200px">
+  <div class="flip-box1">
+  <div class="flip-box-inner1">
+    <div class="flip-box-front1">
+      <img src="images/wuff1.jpg" alt="Restaurant" style="width:300px;height:200px">
+     <h5>WUFF Restaurante</h5>
+    </div>
+    <div class="flip-box-back1">
+         <a href="https://wuffrestaurant.ie/"><p>Wuff Restaurante</p></a>
+         <p>Wuff Restaurant is my current job. I am updating it every weekend. <br> <br> Click to check it out!</p>
+    </div>
   </div>
-  <div class="column">
-    <img src="images/dalila (2).png" alt="Forest"  width="300px" height="200px">
-  </div>
-  <div class="column">
-    <img src="images/ecoMoveis .png" alt="Mountains"  width="300px" height="200px">
+</div>
+
+<div class="video-box">
+  <div class="zoom">
+<video width="300px" height="200px" controls >
+<source src="video/Mobile_Prototype.mp4" type="video/mp4"> </video>
+<h5>Mobile App</h5>
+</div>
+</div>
+
+<div class="flip-box3">
+  <div class="flip-box-inner3">
+    <div class="flip-box-front3">
+      <img src="images/Dalila.png"  alt="Aesthetic" style="width:300px;height:200px">
+     <h5>Dalila Aesthetic</h5>
+    </div>
+    <div class="flip-box-back3">
+    <a href="https://daliladurigueto.netlify.app/"><p>Dalila Aesthetic</p></a>
+    <p>Dalila Aesthetic it's my friend's company from Brazil. I start to work in her webpage few weeks ago <br>
+    <br> Click to check it out!</p>
+    </div>
   </div>
 </div>
 </div>
   <!-------------------------------------------------Footer------------------------------------------------------->
   <footer>
-    <div class="background_footer">
+    <div id="hire" class="background_footer">
       <div class="container_footer">
         <div class="screen">
           <div class="screen-header">
@@ -178,15 +198,14 @@
           </div>
         </div>
        
-        <div class="credits"> Copyright © 2021 - Michele Sousa</div>
 <!------------------------------------------------------------ Add font awesome icons ---------------------------------------->
 <div class="social_media">
 <a href="https://www.facebook.com/michele.sousa.54/" class="fa fa-facebook"></a>
 <a href="https://www.instagram.com/mi_sousa_s/" class="fa fa-instagram"></a>
-<a href="#" class="fa fa-skype"></a>
-<a href="#" class="fa fa-linkedin"></a>
+<a href="https://www.linkedin.com/" class="fa fa-linkedin"></a>
 <a href="https://github.com/21959Michele" class="fa fa-github"></a>
 </div>
+<div class="credits"> Copyright © 2021 - Michele Sousa</div>
          
       </div>
     </div>
