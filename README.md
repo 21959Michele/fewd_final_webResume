@@ -2,17 +2,15 @@
 
 <h4> Student: Michele de Sousa - Id: 21959 </h4>
 
-Netlify Link: https://michelesousa.netlify.app/
-Github link: https://github.com/21959Michele/fewd_final_webResume.git
+<p>Netlify Link: https://michelesousa.netlify.app/</p>
+<p>Github link: https://github.com/21959Michele/fewd_final_webResume.git</p>
 
-<h5> Sumary </h5>
+<h4> Sumary </h4>
 
 <p>This is an individual project to demostrate the skills I have learned in the Front End Web Development class.
 The aim is to develop my first Web Resume using tools of my choise to design, create and deploy a clean, intuitive and responsive webpage.</p>
 
-<h5> Sumary </h5>
-
-<h5> Initial Ideas </h5>
+<h4> Initial Ideas </h4>
 
 <p> It was very difficult for me to decide what kind of curriculum I should develop in the beginning.
 My background is in business and human resources changing my career for IT was not an easy decision and I still struggling to keep it up.
@@ -20,7 +18,7 @@ Based on that, I chose to make a formal curriculum and tried to play around with
 
 <h4> Development Process </h4>
 
-<h5> Layout </h5>
+<h4> Layout </h4>
 
 _italic_ Colors
 <p> I choose a pastel color scheme of aqua, purple, and coral, and it is great if you are looking for a more muted tone of voice in your branding.
@@ -35,7 +33,7 @@ _italic_ Prototype Low-fidelity
 My Web Resume will contain five interactive pages: Home, Professional, Projects, Skills and Contact.
 </p>
 
-<h5> Structure, Issues Faced/Solved </h5>
+<h4> Structure, Issues Faced/Solved </h4>
 _italic_ Structure
 <p> Most of this project was developed with HTML and CSS.
 Honestly, my skills with javascript are very low, even so, I tried to insert some elements.
@@ -48,15 +46,15 @@ To summarise, I realize that my code has a low standard structure, and I was rep
 
 
 
-<h5> Conclusion </h5>
+<h4> Conclusion </h4>
 
-<h5> References  </h5>
+<h4> References  </h4>
 
-Colours: https://visme.co/blog/logo-color-schemes/
-Font: https://fonts.google.com/specimen/Montserrat?query=mont
-Prototype: https://balsamiq.cloud/spaces
-Struture: https://www.w3schools.com/css/default.asp, https://getbootstrap.com/docs/4.0/components/alerts/
-Inspirations: https://dribbble.com/
+<p> Colours: https://visme.co/blog/logo-color-schemes/ </p>
+<p> Font: https://fonts.google.com/specimen/Montserrat?query=mont</p>
+<p> Prototype: https://balsamiq.cloud/spaces</p>
+<p> Struture: https://www.w3schools.com/css/default.asp, https://getbootstrap.com/docs/4.0/components/alerts/</p>
+<p> Inspirations: https://dribbble.com/</p>
 
 
 
