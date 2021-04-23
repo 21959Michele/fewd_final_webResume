@@ -45,7 +45,7 @@ MMost of the ideas and inspirations I had were watching tutorials on youtube and
 To summarise, I realize that my code has a low standard structure, and I was repeating the formatting. Despite it, I have learned a lot from those mistakes.</p>
 
 <h4> Conclusion </h4>
-<p> It was very difficult for me to decide what kind of curriculum I should develop in the beginning. My background is in business and human resources changing my career for IT was not an easy decision and I still struggling to keep it up. Based on that, I chose to make a formal curriculum and tried to play around with colors and interactions. In the end, I believe that my background spoke louder. It looks like more a businesswoman's web resume than a web developer. this final work aroused, even more, the desire to learn deeply how to be a good web development, and based on all my difficulties and mistakes I could realize that I have a lot to learn. </p>
+<p> It was very difficult for me to decide what kind of CV I should develop in the beginning. My background is in business and human resources changing my career for IT was not an easy decision and I still struggling to keep it up. Based on that, I chose to make a formal curriculum and tried to play around with colors and interactions. In the end, I believe that my background spoke louder. It looks like more a businesswoman's web resume than a web developer. this final work aroused, even more, the desire to learn deeply how to be a good web development, and based on all my difficulties and mistakes I could realize that I have a lot to learn. </p>
 
 <h4> References  </h4>
 <p> Colours: https://visme.co/blog/logo-color-schemes/ </p>
