@@ -28,7 +28,7 @@ Fonts:
 <p> I choose Montserrat font from google fonts. It is classified as a sans serif with 18 styles and 9 weights. Some characteristics that make Montserrat special is the Q in particular, it has a cute tail and the J has a wonderful cross bar on the top of the letter.
 Montserrat is very versatile and can be used in multiple domains such as websites, the publishing world, branding, editorial, logos, print, posters, etc. It is a typeface that can be used basically anywherebecause of the geometric and elegant simplicity with nice large x-height. </p>
 
-Prototype Low-fidelity:
+Prototype Low-fidelity: 
 <p> Prototypes are often paper-based and do not allow user interactions. They range from a series of hand-drawn mock-ups to printouts. In theory, low-fidelity sketches are quicker to create. I used the Balsamiq Cloud to make my prototype, it will be attached bellow.
 My Web Resume will contain five interactive pages: Home, Professional, Projects, Skills and Contact.
 </p>
