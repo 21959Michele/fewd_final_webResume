@@ -20,7 +20,7 @@ Based on that, I chose to make a formal curriculum and tried to play around with
 
 <h4> Layout </h4>
 
-Colors:
+_Italics_ Colors: _Italics_
 <p> I choose a pastel color scheme of aqua, purple, and coral, and it is great if you are looking for a more muted tone of voice in your branding.
 A pastel color is defined as any hue with a high value (lightness) and low to medium saturation (the purity or intensity of the color). </p>
 
@@ -52,6 +52,7 @@ To summarise, I realize that my code has a low standard structure, and I was rep
 <p> Prototype: https://balsamiq.cloud/spaces</p>
 <p> Struture: https://www.w3schools.com/css/default.asp, https://getbootstrap.com/docs/4.0/components/alerts/</p>
 <p> Inspirations: https://dribbble.com/</p>
+
 
 
 

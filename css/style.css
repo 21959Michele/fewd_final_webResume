@@ -79,9 +79,10 @@ box-sizing: border-box;
     }
     
     .container_outer_img {
-      margin: 50px;
-      width: 50%;
+      margin: 100px;
       overflow: hidden;
+      border-radius: 10%;
+
     }   
         
     .container_img {
@@ -144,7 +145,7 @@ box-sizing: border-box;
 
 
 .second-container {
-  min-height: 90vh;
+  min-height: 80vh;
   width: 100%;
   display: flex;
   align-items: center;
@@ -153,13 +154,22 @@ box-sizing: border-box;
   background-color:rgb(230, 220, 220);
   }
  
+  .second-container h3 {
+    color: #000;
+    font-size: 28pt;
+     margin-bottom: 800px;
+    margin-left: 60px;
+    text-align: center;
+
+    
+}
 
 .timeline {
   width: 60%;
   height: auto;
-  max-width: 1200px;
+  max-width: 1000px;
   margin: 0 auto;
-  position: relative;
+  position: absolute;
 }
 
 
